@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">KungFuQuiz</string>
+    <string name="appQuiz">Welcome to the ultimate Kung Fu quiz!</string>
+    <string name="firstQuestion">Kung Fu is a .... martial art.</string>
+    <string name="japanese">Japanese</string>
+    <string name="chinese">Chinese</string>
+    <string name="thailand">Thailand</string>
+    <string name="secondQuestion">Which of the following are Kung Fu styles?</string>
+    <string name="shaolin">Shaolin</string>
+    <string name="shitoryu">Shito-ryu</string>
+    <string name="wushu">Wushu</string>
+    <string name="thirdQuestion">What does Shaolin mean?</string>
+    <string name="youngForestTemple">Young Forest Temple</string>
+    <string name="hardwork">Hard Work</string>
+    <string name="martialArt">Martial Art</string>
+    <string name="militaryArt">Military Art</string>
+    <string name="forthQuestion">How many stances are in Kung Fu?</string>
+    <string name="fifthQuestion">What does Yin Yang stand for?</string>
+    <string name="yinyanmeaning">Answer</string>
+    <string name="kungfuis">What is the literal meaning of Kung Fu?</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="five" translatable="false">5</string>
+    <string name="seven" translatable="false">7</string>
+    <string name="four" translatable="false">4</string>
+    <string name="reset" translatable="false">Reset</string>
+</resources>

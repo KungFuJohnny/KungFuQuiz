@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KungFuQuiz</string>
+    <string name="appQuiz">Bem Vindo ao Quiz do Kung Fu!</string>
+    <string name="firstQuestion">O Kung Fu é uma arte marcial...</string>
+    <string name="japanese">Japonesa</string>
+    <string name="chinese">Chinesa</string>
+    <string name="thailand">Tailandesa</string>
+    <string name="secondQuestion">Quais destes são estilos de Kung-Fu?</string>
+    <string name="shaolin">Shaolin</string>
+    <string name="thirdQuestion">O que significa shaolin?</string>
+    <string name="youngForestTemple">Jovem Floresta</string>
+    <string name="hardwork">Trabalho Árduo</string>
+    <string name="martialArt">Arte Marcial</string>
+    <string name="militaryArt">Arte Militar</string>
+    <string name="forthQuestion">Quantas posições bases existem?</string>
+    <string name="fifthQuestion">O que significa Yin Yang?</string>
+    <string name="yinyanmeaning">Resposta</string>
+    <string name="kungfuis">O que significa Kung Fu?</string>
+</resources>
